@@ -107,6 +107,8 @@ a{
 }
 .modal img{
 	margin:0 auto 10px;
+	width:90%;
+	max-width: 250px;
 }
 
 .modal .closed{
@@ -119,5 +121,6 @@ a{
 .modal p{
 	max-width: 250px;
 	text-align: justify;
+	width:90%;
 	margin:0 auto 0 ;
 }
